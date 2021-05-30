@@ -14,9 +14,9 @@ title: Bus tracking system
 ---
 
 ## Team
--  E/14/181, KAVINDAT.B.D.H., [e14181@eng.pdn.ac.lk](mailto:e14181@eng.pdn.ac.lk)
+-  E/14/181, KAVINDA T.B.D.H., [e14181@eng.pdn.ac.lk](mailto:e14181@eng.pdn.ac.lk)
 -  E/14/178, KARUNASINGHE Y.K., [e14178@eng.pdn.ac.lk](mailto:e14178@eng.pdn.ac.lk)
--  E/14/298, RUWANTHAJ.M.D.J., [e14298@eng.pdn.ac.lk](mailto:e14298@eng.pdn.ac.lk)
+-  E/14/298, RUWANTHA J.M.D.J., [e14298@eng.pdn.ac.lk](mailto:e14298@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
