@@ -37,7 +37,7 @@ After all, the collected data will be very valuable also. They can be used to an
 
 - <a href = "https://cepdnaclk.github.io/e14-3yp-Bus-tracking-system/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
-- <a href = "https://ce.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
